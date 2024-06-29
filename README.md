@@ -7,4 +7,4 @@
    O código utiliza Java 7 e a biblioteca "Jackson" para processar JSON e a biblioteca "HttpClient" para fazer requisições HTTP.
 
 ## Como rodar o Projeto?
-  Tendo o arquivo coordinates.json, o arquivo Capital.java e o código da versão de Threads desejada, você pode realizar a medição da temperatura e a medição do tempo necessário de execução que o código tem ao realizar essa busca de variação.
+  Tendo o arquivo coordinates.json e o código da versão de Threads desejada, você pode realizar a medição da temperatura e a medição do tempo necessário de execução que o código tem ao realizar essa busca de variação.
